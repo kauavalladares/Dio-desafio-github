@@ -1,0 +1,2 @@
+Esta pasta foi criada para armazenar codigos,anotações ou
+exercicios referentes a linguagem de programação java. 
